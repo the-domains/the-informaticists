@@ -1,0 +1,14 @@
+name: The Informaticists
+layout_spectrum: 0.6443663070555339
+typography_spectrum: 0.19747075988758622
+color:
+  brandColors:
+    - '#304269'
+    - '#91BED4'
+    - '#D9E8F5'
+    - '#FFFFFF'
+    - '#F26101'
+  brandStrength: 0.7877449614252079
+  lightness: 0.037824205638564146
+  saturation: 0.9337090244219114
+  rhythmicContrast: 0.4317668157598925
